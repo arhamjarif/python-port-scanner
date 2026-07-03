@@ -1,0 +1,18 @@
+PORT SCAN REPORT
+
+Target: 127.0.0.1
+Time: 2026-07-03 23:19:11
+Port Range: 65432-65433
+
+Open Ports:
+65432 Unknown
+
+
+Closed Ports:
+65433 Unknown
+
+
+Filtered Ports:
+
+
+Scan Duration: 0.00
